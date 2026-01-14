@@ -77,6 +77,7 @@ Table of Contents:
 |`MiniGPT-Med`|[[arXiv](https://arxiv.org/abs/2407.04106)]|[[HF](https://github.com/Vision-CAIR/MiniGPT-Med?tab=readme-ov-file#download-minigpt-med-trained-model-weights)]|[[Github](https://github.com/Vision-CAIR/MiniGPT-Med?tab=readme-ov-file#dataset)]|[[Github](https://github.com/Vision-CAIR/MiniGPT-Med)]|
 |`Fleming-VL`|[[arXiv](https://arxiv.org/abs/2511.00916)]|[[HF (8B)](https://huggingface.co/UbiquantAI/Fleming-VL-8B)][[HF (38B)](https://huggingface.co/UbiquantAI/Fleming-VL-38B)]|-|[[Github](https://github.com/UbiquantAI/Fleming-VL)]|
 |`VILA-M3`|[[arXiv](https://arxiv.org/abs/2411.12915)]|[[HF (3B)](https://huggingface.co/MONAI/Llama3-VILA-M3-3B)][[HF (8B)](https://huggingface.co/MONAI/Llama3-VILA-M3-8B)][[HF (13B)](https://huggingface.co/MONAI/Llama3-VILA-M3-13B)]|-|[[Github](https://github.com/Project-MONAI/VLM-Radiology-Agent-Framework)]|
+|`MedGemma-1.5`|[[Blog](https://research.google/blog/next-generation-medical-image-interpretation-with-medgemma-15-and-medical-speech-to-text-with-medasr/)]|[[HF (4B)](https://huggingface.co/google/medgemma-1.5-4b-it)]|-|[[Github](https://github.com/google-health/medgemma)]|
 
 <div align="right">
   <b><a href="#contents">↥ back to top</a></b>
