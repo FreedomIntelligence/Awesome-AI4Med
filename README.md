@@ -125,6 +125,7 @@ Table of Contents:
 |`MedVision`|[[arXiv](https://arxiv.org/abs/2511.18676)]|[[HF](https://huggingface.co/datasets/YongchengYAO/MedVision)]|30.8M|
 |`OmniScience`|-|[[HF](https://huggingface.co/datasets/UniParser/OmniScience)]|1.5M|
 |`Open-PMC-18M`|[[arXiv](https://arxiv.org/abs/2506.02738)]|[[HF](https://huggingface.co/datasets/vector-institute/open-pmc-18m)]|18M|
+|`Project-Imaging-X`|[[Report](https://github.com/uni-medical/Project-Imaging-X/blob/main/project-imaging-x_dataset-survey.pdf)]|[[Github](https://github.com/uni-medical/Project-Imaging-X)]|1,000+ open-access medical image datasets|
 
 <div align="right">
   <b><a href="#contents">↥ back to top</a></b>
