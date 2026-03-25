@@ -138,6 +138,7 @@ Table of Contents:
 |`MedEvalKit`|[[Github](https://github.com/alibaba-damo-academy/MedEvalKit)]|**（1）Multimodal：**：`MMMU-Medical-test`, `MMMU-Medical-val`, `PMC_VQA`, `OmniMedVQA`, `IU XRAY`, `MedXpertQA-Multimodal`, `CheXpert Plus`, `MIMIC-CXR`, `VQA-RAD`, `SLAKE`, `PATH-VQA`, `MedFrameQA`；**（2）Text-only：**：`MedQA-USMLE`, `MedMCQA`, `PubMedQA`, `Medbullets-op4`, `Medbullets-op5`, `MedXpertQA-Text`, `SuperGPQA`, `HealthBench`, `CMB`, `CMExam`, `CMMLU`, `MedQA-MCMLE`；|
 |`MedBench`|[[Website](https://medbench.opencompass.org.cn/home)]|**Text-only：**：`Med-Exam`, `MedHC`, `MedMC`, `MedSpeQA`, `MedHG`, `MedDG`, `MedLitQA`, `IMCS-V2-MRG`, `DBMHG`, `CMB-Clin-extended`, `DDx-basic`, `DDx-advanced`, `MedTreat`, `CMeEE`, `CMeIE`, `CHIP-CDEE`, `CHIP-CDN`, `CHIP-CTC`, `SMDoc`, `MedSafety`, `DrugCA`, `CriID`|
 |`LiveClin`|[[Github](https://github.com/AQ-MedAI/LiveClin)]|-|
+|`Narrative Scorer`|[[Github](https://github.com/cittaverse/narrative-scorer)]|**Reminiscence Therapy：** Six-dimension autobiographical narrative quality assessment (event richness, temporal/causal coherence, emotional depth, identity integration, information density) for Chinese elderly speech in digital therapeutics. 60 tests, CI, reference-free.|
 
 <div align="right">
   <b><a href="#contents">↥ back to top</a></b>
