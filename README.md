@@ -49,6 +49,7 @@ Table of Contents:
 |`MedGemma`|[[arXiv](https://arxiv.org/abs/2507.05201)]|[[HF (27B)](https://huggingface.co/google/medgemma-27b-text-it)]|-|[[Github](https://github.com/Google-Health/medgemma)]|
 |`AntAngelMed`|-|[[HF (100B)](https://huggingface.co/MedAIBase/AntAngelMed)]|-|[[Github](https://github.com/MedAIBase/AntAngelMed)]|
 |`Baichuan-M3`|-|[[HF (235B)](https://huggingface.co/baichuan-inc/Baichuan-M3-235B)]|-|-|
+|`MedPsy`|[Blog](https://huggingface.co/blog/qvac/medpsy)|[[HF (1.7B/4B)](https://huggingface.co/collections/qvac/medpsy)]|-|-|
 
 
 <div align="right">
@@ -100,6 +101,7 @@ Table of Contents:
 |`ReasonMed`|[[arXiv](https://arxiv.org/abs/2506.09513)]|[[HF](https://huggingface.co/datasets/YuSun-AI/ReasonMed)]|370,000|
 |`Multilingual-Medical-Corpus`|[[arXiv](https://arxiv.org/abs/2404.07613)]|[[HF](https://huggingface.co/datasets/HiTZ/Multilingual-Medical-Corpus)]|3M|
 |`AI Medical Dataset`|[[arXiv](https://arxiv.org/abs/2404.07613)]|[[HF](https://huggingface.co/datasets/ruslanmv/ai-medical-dataset)]|27,000,000|
+|`AfriMed-QA`|[[Paper](https://aclanthology.org/2025.acl-long.96.pdf)]|[[HF](https://huggingface.co/datasets/intronhealth/afrimedqa_v2)]|15,275|
 
 
 <div align="right">
