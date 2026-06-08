@@ -82,6 +82,8 @@ Table of Contents:
 |`MediX-R1`|[[arXiv](https://arxiv.org/abs/2602.23363)]|[[HF (2B)](https://huggingface.co/MBZUAI/MediX-R1-2B)][[HF (8B)](https://huggingface.co/MBZUAI/MediX-R1-8B)][[HF (30B)](https://huggingface.co/MBZUAI/MediX-R1-30B)]|[[HF](https://huggingface.co/datasets/MBZUAI/medix-rl-data)]|[[Github](https://github.com/mbzuai-oryx/MediX-R1)]|
 |`MedMO`|[[arXiv](https://arxiv.org/abs/2602.06965)]|[[HF (4B)](https://huggingface.co/MBZUAI/MedMO-4B)][[HF (8B)](https://huggingface.co/MBZUAI/MedMO-8B)][[HF (8B-Next)](https://huggingface.co/MBZUAI/MedMO-8B-Next)]|-|[[Github](https://github.com/genmilab/MedMO)]|
 |`MedGPT-oss`|[[arXiv](https://arxiv.org/abs/2603.00842)]|-|-|-|
+|`Photon`|[[arXiv](https://arxiv.org/abs/2603.25155)]|[[HF (S1)](https://huggingface.co/Alibaba-DAMO-Academy/Photon-S1)][[HF (S2)](https://huggingface.co/Alibaba-DAMO-Academy/Photon-S2)]|-|[[Github](https://github.com/alibaba-damo-academy/Photon)]|
+|`MedVR`|[[arXiv](https://arxiv.org/abs/2604.08203)]|-|-|[[Github](https://github.com/alibaba-damo-academy/MedVR)]|
 |`OctoMed`|[[arXiv](https://arxiv.org/abs/2511.23269)]|[[HF (7B)](https://huggingface.co/OctoMed/OctoMed-7B)]|-|-|
 |`QoQ-Med`|[[arXiv](https://arxiv.org/abs/2506.00711)]|[[HF (7B)](https://huggingface.co/ddvd233/QoQ-Med-VL-7B)][[HF (32B)](https://huggingface.co/ddvd233/QoQ-Med-VL-32B)]|-|[[Github](https://github.com/DDVD233/QoQ_Med)]|
 
