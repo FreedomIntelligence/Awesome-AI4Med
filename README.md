@@ -8,10 +8,10 @@
 > 📣 You can view our repository on specialized disease LLMs at [FreedomIntelligence/Awesome-Specialized-Medical-LLMs](https://github.com/FreedomIntelligence/Awesome-Specialized-Medical-LLMs)!
 
 <p>
-  <a href="https://github.com/FreedomIntelligence/Medical_NLP"><img src=https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg ></a>
-  <a href="https://github.com/FreedomIntelligence/Medical_NLP"><img src=https://img.shields.io/github/forks/FreedomIntelligence/Medical_NLP.svg?style=social ></a>
-  <a href="https://github.com/FreedomIntelligence/Medical_NLP"><img src=https://img.shields.io/github/stars/FreedomIntelligence/Medical_NLP.svg?style=social ></a>
-  <a href="https://github.com/FreedomIntelligence/Medical_NLP"><img src=https://img.shields.io/github/watchers/FreedomIntelligence/Medical_NLP.svg?style=social ></a>
+  <a href="https://github.com/FreedomIntelligence/Awesome-AI4Med"><img src=https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg ></a>
+  <a href="https://github.com/FreedomIntelligence/Awesome-AI4Med"><img src=https://img.shields.io/github/forks/FreedomIntelligence/Awesome-AI4Med.svg?style=social ></a>
+  <a href="https://github.com/FreedomIntelligence/Awesome-AI4Med"><img src=https://img.shields.io/github/stars/FreedomIntelligence/Awesome-AI4Med.svg?style=social ></a>
+  <a href="https://github.com/FreedomIntelligence/Awesome-AI4Med"><img src=https://img.shields.io/github/watchers/FreedomIntelligence/Awesome-AI4Med.svg?style=social ></a>
 </p>
 
 Table of Contents:
