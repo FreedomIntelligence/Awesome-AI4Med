@@ -151,4 +151,4 @@ Table of Contents:
   <b><a href="#contents">↥ back to top</a></b>
 </div>
 
-[![Star History Chart](https://api.star-history.com/svg?repos=FreedomIntelligence/Medical_NLP&type=Date)](https://star-history.com/#FreedomIntelligence/Medical_NLP)
+[![Star History Chart](https://api.star-history.com/svg?repos=FreedomIntelligence/Awesome-AI4Med&type=Date)](https://star-history.com/#FreedomIntelligence/Awesome-AI4Med)
