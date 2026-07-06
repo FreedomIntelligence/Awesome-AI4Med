@@ -154,3 +154,5 @@ Table of Contents:
 </div>
 
 [![Star History Chart](https://api.star-history.com/svg?repos=FreedomIntelligence/Awesome-AI4Med&type=Date)](https://star-history.com/#FreedomIntelligence/Awesome-AI4Med)
+
+- [ContinueWith](https://continuewith.ai) - Let visitors continue any website page inside ChatGPT, Claude, Gemini, Grok, Perplexity, Mistral, and other AI assistants in one click.
