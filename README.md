@@ -86,6 +86,7 @@ Table of Contents:
 |`OctoMed`|[[arXiv](https://arxiv.org/abs/2511.23269)]|[[HF (7B)](https://huggingface.co/OctoMed/OctoMed-7B)]|-|-|
 |`QoQ-Med`|[[arXiv](https://arxiv.org/abs/2506.00711)]|[[HF (7B)](https://huggingface.co/ddvd233/QoQ-Med-VL-7B)][[HF (32B)](https://huggingface.co/ddvd233/QoQ-Med-VL-32B)]|-|[[Github](https://github.com/DDVD233/QoQ_Med)]|
 |`MedVLThinker`|[[arXiv](https://arxiv.org/abs/2508.02669)]|[[HF (3B/7B/32B)](https://huggingface.co/collections/UCSC-VLAA/medvlthinker)]|[[HF](https://huggingface.co/collections/UCSC-VLAA/medvlthinker-688f52224fb7ff7d965d581d)]|[[Github](https://github.com/UCSC-VLAA/MedVLThinker)]|
+|`Citrus-V`|[[arXiv](https://arxiv.org/pdf/2509.19090)]|[[HF (8B)](https://huggingface.co/jdh-algo/Citrus-V-8B-v1.0)]|[[HF](https://huggingface.co/datasets/jdh-algo/MeCoVQA-G-Plus)]|[[Github](https://github.com/jdh-algo/Citrus-V)]|
 
 
 <div align="right">
