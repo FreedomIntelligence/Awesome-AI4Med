@@ -21,6 +21,7 @@ Table of Contents:
   - [3.1 Text](#31-text)
   - [3.2 Multimodal](#32-multimodal)
 - [4. Benchmarks](#4-benchmarks)
+- [5. Multimodal Foundation Models](#5-multimodal-foundation-models)
 
 ![](https://camo.githubusercontent.com/2722992d519a722218f896d5f5231d49f337aaff4514e78bd59ac935334e916a/68747470733a2f2f692e696d6775722e636f6d2f77617856496d762e706e67)
 
@@ -151,6 +152,18 @@ Table of Contents:
 |`LiveClin`|[[Github](https://github.com/AQ-MedAI/LiveClin)]|-|
 |`Stanford MedHELM⁠`|[[Website](https://crfm.stanford.edu/helm/medhelm/latest/#/leaderboard)]|Holistic Evaluation of Language Models (HELM)|
 |`Medmarks v0.1⁠`|[[Website](https://sophont.med/blog/medmarks#introduction)]|-|
+
+<div align="right">
+  <b><a href="#contents">↥ back to top</a></b>
+</div>
+
+## 5. Multimodal Foundation Models
+
+Foundation models that integrate biomedical modalities beyond text and vision–language — e.g. histology together with DNA/RNA/protein, single-cell, and biomedical-text embeddings — often exposing a natural-language query interface.
+
+|**Model Name**|**Paper**|**Model Weight**|**Data**|**Code**|
+|:-|:-:|:-:|:-:|:-:|
+|`DeepSpot-M`|[[medRxiv](https://www.medrxiv.org/content/10.64898/2026.06.19.26356060v1)]|-|-|[[Github](https://github.com/ratschlab/DeepSpotM)]|
 
 <div align="right">
   <b><a href="#contents">↥ back to top</a></b>
