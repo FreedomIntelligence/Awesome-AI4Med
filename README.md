@@ -151,9 +151,8 @@ Table of Contents:
 |`LiveClin`|[[Github](https://github.com/AQ-MedAI/LiveClin)]|-|
 |`Stanford MedHELM⁠`|[[Website](https://crfm.stanford.edu/helm/medhelm/latest/#/leaderboard)]|Holistic Evaluation of Language Models (HELM)|
 |`Medmarks v0.1⁠`|[[Website](https://sophont.med/blog/medmarks#introduction)]|-|
+|`HealthBench⁠`|[[Github](https://github.com/medicalsphere/HealthBench)]|`healthbench`, `healthbench_hard`, `healthbench_consensus`, `healthbench_meta`, `healthbench_professional`|
 
 <div align="right">
   <b><a href="#contents">↥ back to top</a></b>
 </div>
-
-[![Star History Chart](https://api.star-history.com/svg?repos=FreedomIntelligence/Awesome-AI4Med&type=Date)](https://star-history.com/#FreedomIntelligence/Awesome-AI4Med)
