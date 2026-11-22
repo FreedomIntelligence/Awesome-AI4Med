@@ -136,6 +136,8 @@ Table of Contents:
 |`OpenMedReason`|[[arXiv](https://arxiv.org/pdf/2606.12169)]|[[HF](https://huggingface.co/datasets/neginb/OpenMedReason)]|193k|
 |`TCGA virtual ST atlas`|[[medRxiv](https://www.medrxiv.org/content/10.64898/2026.06.19.26356060v1)]|[[HF](https://huggingface.co/datasets/ratschlab/TCGA_virtual_spatial_transcriptomics_atlas)]|~28.7k slides / ~296M spots|
 |`HEST Xenium virtual ST`|[[medRxiv](https://www.medrxiv.org/content/10.64898/2026.06.19.26356060v1)]|[[HF](https://huggingface.co/datasets/ratschlab/HEST_Xenium_virtual_spatial_transcriptomics)]|59 samples / ~13.3M cells|
+|`KPMP virtual ST atlas`|[[medRxiv](https://www.medrxiv.org/content/10.64898/2026.11.17.26368273v1)]|[[HF](https://huggingface.co/datasets/ratschlab/KPMP_virtual_spatial_transcriptomics_atlas)]|1,534 slides / ~5.46M spots|
+|`KPMP Xenium virtual ST`|[[medRxiv](https://www.medrxiv.org/content/10.64898/2026.11.17.26368273v1)]|[[HF](https://huggingface.co/datasets/ratschlab/KPMP_Xenium_virtual_spatial_transcriptomics)]|49 sections / ~1.64M cells|
 
 
 <div align="right">
