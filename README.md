@@ -105,6 +105,7 @@ Table of Contents:
 |`ReasonMed`|[[arXiv](https://arxiv.org/abs/2506.09513)]|[[HF](https://huggingface.co/datasets/YuSun-AI/ReasonMed)]|370,000|
 |`Multilingual-Medical-Corpus`|[[arXiv](https://arxiv.org/abs/2404.07613)]|[[HF](https://huggingface.co/datasets/HiTZ/Multilingual-Medical-Corpus)]|3M|
 |`AI Medical Dataset`|[[arXiv](https://arxiv.org/abs/2404.07613)]|[[HF](https://huggingface.co/datasets/ruslanmv/ai-medical-dataset)]|27,000,000|
+|`GPAgentBench-2K`|[[Paper](https://aclanthology.org/2026.emnlp-main.644.pdf)]|[[HF](https://huggingface.co/datasets/Frank-xd/GPAgentBench-2K)]|2,428|
 |`AfriMed-QA`|[[Paper](https://aclanthology.org/2025.acl-long.96.pdf)]|[[HF](https://huggingface.co/datasets/intronhealth/afrimedqa_v2)]|15,275|
 
 
